@@ -1,0 +1,5 @@
+{
+  "name": "NeuroWave: AI Thought Visualizer",
+  "description": "An interactive 3D generative art experience driven by Gemini. Your thoughts translate into real-time shader-based wave simulations, changing color, speed, and form based on emotional sentiment.",
+  "requestFramePermissions": []
+}
